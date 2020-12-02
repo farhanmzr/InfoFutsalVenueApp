@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#F6F6F6"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:paddingBottom="40dp">
 
     <View
         android:id="@+id/view"
